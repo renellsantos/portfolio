@@ -28,6 +28,11 @@ I also included my works on:
 
 These projects demonstrates my ability to extract insights on complex data.
 
+### Links
+[https://www.kaggle.com/renellsantos](https://www.kaggle.com/renellsantos/code)
+
+[https://public.tableau.com/app/profile/renell.santos/vizzes](https://public.tableau.com/app/profile/renell.santos/vizzes)
+
 ## Conclusion
 
 Thank you for your time and hope to hear from you soon.
