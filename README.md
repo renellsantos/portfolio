@@ -41,13 +41,17 @@ These projects demonstrates my ability to extract insights on complex data.
 ## Certificates/Certifications
 I believe showcasing skills through work is ideal but credentials also speak skill. My certificates/certifications are listed here, along with the dates of completion, in reverse chronological order:
 
+- Introduction to Data Analytics in Google Cloud (Coursera 2024)
 - Google Cloud Digital Leader Training (Coursera 2024)
 - Google Advanced Data Analytics (Coursera 2024)
+- Python (Kaggle 2024)
+- Intro to Programming (Kaggle 2024)
 - Advanced Relational Database and SQL (Coursera 2024)
 - Intermediate Relational Database and SQL (Coursera 2024)
 - Introduction to Relational Database and SQL (Coursera 2024)
 - Google Business Intelligence (Coursera 2024)
 - Google Data Analytics (Coursera 2024)
+- Foundations of Digital Marketing and E-commerce (Coursera 2024)
 - Google Project Management (Coursera 2023)
 
 ## Conclusion
