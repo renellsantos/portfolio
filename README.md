@@ -9,8 +9,10 @@ Hi! Welcome to my Portfolio. I have included a variety of projects that highligh
 3. [Programming and Data Analysis](#programming-and-data-analysis)
 4. [Kaggle](#kaggle)
 5. [Tableau](#tableau)
-6. [Certificates/Certifications](#certificatescertifications)
-7. [Conclusion](#conclusion)
+6. [Power Bi](#Power-Bi)
+7. [Looker](#Looker)
+8. [Certificates/Certifications](#certificatescertifications)
+9. [Conclusion](#conclusion)
 
 ## Dashboards and Reports
 
@@ -37,6 +39,12 @@ These projects demonstrates my ability to extract insights on complex data.
 
 ## Tableau
 [Tableau Vizzes](https://public.tableau.com/app/profile/renell.santos/vizzes)
+
+## Power Bi
+[Power Bi]
+
+## Looker
+[Looker]
 
 ## Certificates/Certifications
 I believe showcasing skills through work is ideal but credentials also speak skill. My certificates/certifications are listed here, along with the dates of completion, in reverse chronological order:
