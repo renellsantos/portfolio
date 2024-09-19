@@ -36,15 +36,21 @@ These projects demonstrates my ability to extract insights on complex data.
 
 ## Kaggle
 [Kaggle Notebooks](https://www.kaggle.com/renellsantos/code)
+![Kaggle - Starter Video Game Sales](https://github.com/user-attachments/assets/c9391022-3895-4104-b59c-235ebe0c0ca5)
+
 
 ## Tableau
 [Tableau Vizzes](https://public.tableau.com/app/profile/renell.santos/vizzes)
+![Tableau - Seoul Bike Data](https://github.com/user-attachments/assets/d637a7dc-9fc8-4847-832c-eea52be1a7cd)
+
 
 ## Power Bi
-[Power Bi]
+[Preview]![Power Bi - Annual Sales Report - Balaji](https://github.com/user-attachments/assets/c435d855-5db8-41e2-be55-d8286fb595ac)
+
 
 ## Looker
-[Looker]
+[Preview]![Looker- Food Delivery Options Taft Avenue](https://github.com/user-attachments/assets/de767c21-0cf8-4407-b035-e2212b221b58)
+
 
 ## Certificates/Certifications
 I believe showcasing skills through work is ideal but credentials also speak skill. My certificates/certifications are listed here, along with the dates of completion, in reverse chronological order:
