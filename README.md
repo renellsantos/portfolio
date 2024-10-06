@@ -45,11 +45,17 @@ These projects demonstrates my ability to extract insights on complex data.
 
 
 ## Power Bi
-[Preview]![Power Bi - Annual Sales Report - Balaji](https://github.com/user-attachments/assets/c435d855-5db8-41e2-be55-d8286fb595ac)
+[Preview]
+![Screenshot 2024-10-05 215303](https://github.com/user-attachments/assets/0d59a50f-2881-46ba-b521-01d55780741e)
+![Screenshot 2024-10-05 215310](https://github.com/user-attachments/assets/de00f0dd-9790-4faf-9bf1-fdfe6902e04b)
+
+
+
 
 
 ## Looker
-[Preview]![Looker- Food Delivery Options Taft Avenue](https://github.com/user-attachments/assets/de767c21-0cf8-4407-b035-e2212b221b58)
+[Preview]
+![Looker- Food Delivery Options Taft Avenue](https://github.com/user-attachments/assets/de767c21-0cf8-4407-b035-e2212b221b58)
 
 
 ## Certificates/Certifications
