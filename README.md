@@ -11,8 +11,9 @@ Hi! Welcome to my Portfolio. I have included a variety of projects that highligh
 5. [Tableau](#tableau)
 6. [Power Bi](#Power-Bi)
 7. [Looker](#Looker)
-8. [Certificates/Certifications](#certificatescertifications)
-9. [Conclusion](#conclusion)
+8. [Google Analytics](#Google-Analytics)
+9. [Certificates/Certifications](#certificatescertifications)
+10. [Conclusion](#conclusion)
 
 ## Dashboards and Reports
 
@@ -46,16 +47,17 @@ These projects demonstrates my ability to extract insights on complex data.
 
 ## Power Bi
 [Preview]
-![Screenshot 2024-10-05 215303](https://github.com/user-attachments/assets/0d59a50f-2881-46ba-b521-01d55780741e)
-![Screenshot 2024-10-05 215310](https://github.com/user-attachments/assets/de00f0dd-9790-4faf-9bf1-fdfe6902e04b)
-
-
-
+![Screenshot 2025-01-21 220920](https://github.com/user-attachments/assets/db03545b-c904-45c1-a7ca-9794bb7f14a3)
 
 
 ## Looker
 [Preview]
 ![Looker- Food Delivery Options Taft Avenue](https://github.com/user-attachments/assets/de767c21-0cf8-4407-b035-e2212b221b58)
+
+
+## Google Analytics
+[Preview]
+![Google Analytics Portfolio](https://github.com/user-attachments/assets/0bf7ae9c-3b9d-4c06-aaf0-db5158b02a3a)
 
 
 ## Certificates/Certifications
