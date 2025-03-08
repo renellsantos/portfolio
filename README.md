@@ -35,6 +35,45 @@ I also included my works on:
 
 These projects demonstrates my ability to extract insights on complex data.
 
+
+### **📂 Telco Churn Analysis**  
+[GitHub Repository]
+
+This project demonstrates **ETL (Extract, Transform, Load) using Python and PostgreSQL**, followed by **Data Analysis & Visualization in Power BI**.
+
+### **🔧 Tech Stack**
+- **Python** (pandas, psycopg2, SQLAlchemy)
+- **PostgreSQL** (Database Storage & Querying)
+- **Power BI** (Dashboard & Insights)
+- **SQL** (Data Processing & Queries)
+- 
+### **📌 Process Workflow**
+1️⃣ **Extract**: Load Telco customer churn data from a CSV.  
+2️⃣ **Transform**: Clean and format data, rename columns.  
+3️⃣ **Load**: Store in a PostgreSQL database.  
+4️⃣ **Analyze**: Query insights from PostgreSQL.  
+5️⃣ **Visualize**: Power BI dashboard.  
+
+### **📸 Screenshots**
+✅ **Python Script Execution**  
+![Python Script Running]![Screenshot 2025-03-09 004011](https://github.com/user-attachments/assets/8786a830-853a-4297-affa-a926c49a9e8c)
+
+✅ **PostgreSQL Database Table**  
+![PostgreSQL Data]![image](https://github.com/user-attachments/assets/6ab818de-a8bf-4dcc-a406-2fe0963cf384)
+
+
+
+✅ **Power BI Dashboard**  
+![Power BI Dashboard]![image](https://github.com/user-attachments/assets/61b0d4da-d716-4eef-8588-96991ad42f93)
+
+📈 Insights & Findings
+🔹 Senior citizens have a higher churn rate.
+🔹 Month-to-month contracts have the highest churn.
+🔹 Higher total charges reduce churn likelihood.
+
+
+
+
 ## Kaggle
 [Kaggle Notebooks](https://www.kaggle.com/renellsantos/code)
 ![Kaggle - Starter Video Game Sales](https://github.com/user-attachments/assets/c9391022-3895-4104-b59c-235ebe0c0ca5)
@@ -63,6 +102,7 @@ These projects demonstrates my ability to extract insights on complex data.
 ## Certificates/Certifications
 I believe showcasing skills through work is ideal but credentials also speak skill. My certificates/certifications are listed here, along with the dates of completion, in reverse chronological order:
 
+- Google Prompting Essentials (Coursera 2025)
 - Introduction to Data Analytics in Google Cloud (Coursera 2024)
 - Google Cloud Digital Leader Training (Coursera 2024)
 - Google Advanced Data Analytics (Coursera 2024)
