@@ -46,7 +46,7 @@ This project demonstrates **ETL (Extract, Transform, Load) using Python and Post
 - **PostgreSQL** (Database Storage & Querying)
 - **Power BI** (Dashboard & Insights)
 - **SQL** (Data Processing & Queries)
-- 
+  
 ### **📌 Process Workflow**
 1️⃣ **Extract**: Load Telco customer churn data from a CSV.  
 2️⃣ **Transform**: Clean and format data, rename columns.  
