@@ -82,9 +82,12 @@ These projects demonstrate my ability to extract insights from complex data.
 ✅ **Power BI Dashboard**  
 ![Power BI Dashboard]![image](https://github.com/user-attachments/assets/61b0d4da-d716-4eef-8588-96991ad42f93)
 
-📈 Insights & Findings
+📈 **Insights & Findings**
+
 🔹 Senior citizens have a higher churn rate.
+
 🔹 Month-to-month contracts have the highest churn.
+
 🔹 Higher total charges reduce churn likelihood.
 
 ---
@@ -122,17 +125,23 @@ Automate job listing extraction from multiple websites and visualize hiring tren
 
 ## Tableau
 [Tableau Vizzes](https://public.tableau.com/app/profile/renell.santos/vizzes)
+
 🚀 Tableau Viz - Seoul Bike Rentals
+
 Analyzed bike rental patterns across different weather conditions to optimize bike-sharing operations.
+
 🔗 Tableau Report: [Your Tableau Link Here]
 ![Tableau - Seoul Bike Data](https://github.com/user-attachments/assets/d637a7dc-9fc8-4847-832c-eea52be1a7cd)
 
 
 ## Power BI
 [Preview]
+
 ✅ Example for Power BI:
-- 🚀 Power BI Dashboard - Restaurant Sales Analysis
+
+🚀 Power BI Dashboard - Restaurant Sales Analysis
 - This dashboard visualizes monthly sales trends, customer demographics, and transaction types to help restaurant managers optimize their menu and operations.
+  
 🔗 Power BI Report: [Your Power BI Link Here]
 ![Screenshot 2025-01-21 220920](https://github.com/user-attachments/assets/db03545b-c904-45c1-a7ca-9794bb7f14a3)
 
