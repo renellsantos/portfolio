@@ -159,6 +159,7 @@ Analyzed bike rental patterns across different weather conditions to optimize bi
 ## Certificates/Certifications
 I believe showcasing skills through work is ideal but credentials also speak skill. My certificates/certifications are listed here, along with the dates of completion, in reverse chronological order:
 
+- IBM Data Engineering Essentials (Coursera 2025)
 - Google Prompting Essentials (Coursera 2025)
 - Introduction to Data Analytics in Google Cloud (Coursera 2024)
 - Google Cloud Digital Leader Training (Coursera 2024)
