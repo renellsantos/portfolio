@@ -1,58 +1,74 @@
 # Data Portfolio
+
 ## Overview
 
-Hi! Welcome to my Portfolio. I have included a variety of projects that highlight my data skills. This repository functions as a platform to share my projects, and as a way to track my progress in Data Analytics and Data Science-related topics. You will find links to the dashboards and reports I have created using BI tools and Spreadsheets.
+Welcome to my Data Portfolio! 🚀  
+This portfolio showcases my expertise in **Data Analytics, Business Intelligence, and Data Engineering**.  
+Here, you'll find my best projects featuring **interactive dashboards, data pipelines, and end-to-end data workflows** using tools like **Power BI, SQL, Python, and cloud platforms**.
 
-## Table of contents
-1. [Overview](#overview)
-2. [Dashboards and Reports](#dashboards-and-reports)
-3. [Programming and Data Analysis](#programming-and-data-analysis)
-4. [Kaggle](#kaggle)
-5. [Tableau](#tableau)
-6. [Power Bi](#Power-Bi)
-7. [Looker](#Looker)
-8. [Google Analytics](#Google-Analytics)
-9. [Certificates/Certifications](#certificatescertifications)
-10. [Conclusion](#conclusion)
+---
 
-## Dashboards and Reports
+## Table of Contents
+1. [Overview](#overview)  
+2. [Dashboards and Reports](#dashboards-and-reports)  
+3. [Programming and Data Analysis](#programming-and-data-analysis)  
+4. [Kaggle](#kaggle)  
+5. [Tableau](#tableau)  
+6. [Power BI](#power-bi)  
+7. [Looker](#looker)  
+8. [Google Analytics](#google-analytics)  
+9. [Certificates/Certifications](#certificatescertifications)  
+10. [Conclusion](#conclusion)  
 
-I have developed interactive dashboards and reports using:
-- **Tableau**
-- **Power BI**
-- **Looker**
-- **Google Sheets**
-- **MS Excel**
+---
 
-These projects demonstrate my ability to present data that helps stakeholders understand key insights from the data presented to make a decision and take action
+## Dashboards and Reports  
 
-## Programming and Data Analysis
+I have developed interactive dashboards and reports using:  
+- **Tableau**  
+- **Power BI**  
+- **Looker**  
+- **Google Sheets**  
+- **MS Excel**  
 
-I also included my works on:
-- **SQL**
-- **R**
-- **Python**
+These projects demonstrate my ability to present data that helps stakeholders understand key insights for decision-making.
 
-These projects demonstrates my ability to extract insights on complex data.
+---
+
+## Programming and Data Analysis  
+
+I also included my work on:  
+- **SQL**  
+- **R**  
+- **Python**  
+
+These projects demonstrate my ability to extract insights from complex data.
 
 
-### **📂 Telco Churn Analysis**  
-[GitHub Repository]
+### 📂 Telco Churn Analysis  
 
-This project demonstrates **ETL (Extract, Transform, Load) using Python and PostgreSQL**, followed by **Data Analysis & Visualization in Power BI**.
+🚀 **Goal:**  
+- Analyze customer churn patterns in a telecommunications company using **ETL, SQL, and Power BI**.  
 
-### **🔧 Tech Stack**
-- **Python** (pandas, psycopg2, SQLAlchemy)
-- **PostgreSQL** (Database Storage & Querying)
-- **Power BI** (Dashboard & Insights)
-- **SQL** (Data Processing & Queries)
-  
-### **📌 Process Workflow**
-1️⃣ **Extract**: Load Telco customer churn data from a CSV.  
-2️⃣ **Transform**: Clean and format data, rename columns.  
-3️⃣ **Load**: Store in a PostgreSQL database.  
-4️⃣ **Analyze**: Query insights from PostgreSQL.  
-5️⃣ **Visualize**: Power BI dashboard.  
+🔧 **Tools Used:**  
+✅ Python (`pandas`, `psycopg2`, `SQLAlchemy`)  
+✅ PostgreSQL (Database for structured storage)  
+✅ Power BI (Data visualization & insights)  
+✅ SQL (Querying and data transformation)  
+
+📌 **Workflow:**  
+1️⃣ **Extract** - Scraped Telco customer data from a CSV file.  
+2️⃣ **Transform** - Cleaned & formatted the data using Python.  
+3️⃣ **Load** - Stored the data in a PostgreSQL database.  
+4️⃣ **Analyze** - Wrote SQL queries to extract key insights.  
+5️⃣ **Visualize** - Built an interactive Power BI dashboard.  
+
+📈 **Key Insights:**  
+📌 Senior citizens churn more often than younger users.  
+📌 Customers with month-to-month contracts are more likely to leave.  
+📌 Higher total charges reduce the likelihood of churn.  
+
+🔗 [GitHub Repo](#) | 📊 [Power BI Dashboard](#)  
 
 ### **📸 Screenshots**
 ✅ **Python Script Execution**  
@@ -71,21 +87,53 @@ This project demonstrates **ETL (Extract, Transform, Load) using Python and Post
 🔹 Month-to-month contracts have the highest churn.
 🔹 Higher total charges reduce churn likelihood.
 
+---
 
+### 📂 Job Board Scraper  
 
+🚀 **Goal:**  
+Automate job listing extraction from multiple websites and visualize hiring trends in Power BI.  
 
-## Kaggle
-[Kaggle Notebooks](https://www.kaggle.com/renellsantos/code)
+🔧 **Tech Stack:**  
+✅ Python (`BeautifulSoup`, `Requests`, `Selenium`)  
+✅ SQL (Data storage & transformation)  
+✅ Power BI (Interactive job market dashboard)  
+
+📌 **Workflow:**  
+1️⃣ **Scrape** - Extract job data from multiple online job boards.  
+2️⃣ **Clean** - Remove duplicates and standardize job descriptions.  
+3️⃣ **Store** - Save structured data in an SQL database.  
+4️⃣ **Analyze** - Find hiring trends, most in-demand roles, and top locations.  
+5️⃣ **Visualize** - Power BI dashboard for real-time job market insights.  
+
+📈 **Key Insights:**  
+📌 Most in-demand skills: **Python, SQL, Power BI**.  
+📌 **Remote jobs increased by 30%** in the last year.  
+📌 Top hiring industries: **Tech, Finance, and Healthcare**.  
+
+🔗 [GitHub Repo](#) | 📊 [Power BI Dashboard](#)  
+
+---
+
+## Kaggle  
+🔗 [Kaggle Notebooks](https://www.kaggle.com/renellsantos/code)  
 ![Kaggle - Starter Video Game Sales](https://github.com/user-attachments/assets/c9391022-3895-4104-b59c-235ebe0c0ca5)
 
 
 ## Tableau
 [Tableau Vizzes](https://public.tableau.com/app/profile/renell.santos/vizzes)
+🚀 Tableau Viz - Seoul Bike Rentals
+Analyzed bike rental patterns across different weather conditions to optimize bike-sharing operations.
+🔗 Tableau Report: [Your Tableau Link Here]
 ![Tableau - Seoul Bike Data](https://github.com/user-attachments/assets/d637a7dc-9fc8-4847-832c-eea52be1a7cd)
 
 
-## Power Bi
+## Power BI
 [Preview]
+✅ Example for Power BI:
+- 🚀 Power BI Dashboard - Restaurant Sales Analysis
+- This dashboard visualizes monthly sales trends, customer demographics, and transaction types to help restaurant managers optimize their menu and operations.
+🔗 Power BI Report: [Your Power BI Link Here]
 ![Screenshot 2025-01-21 220920](https://github.com/user-attachments/assets/db03545b-c904-45c1-a7ca-9794bb7f14a3)
 
 
@@ -118,7 +166,11 @@ I believe showcasing skills through work is ideal but credentials also speak ski
 
 ## Conclusion
 
-Thank you for your time and hope to hear from you soon.
-
-
 Thank you for taking the time to review my portfolio. I look forward to connecting with you soon.
+
+
+📬 Contact Me
+
+📧 Email: santosrenell304@gmail.com
+
+🔗 LinkedIn: [linkedin.com/in/renell-santos](https://www.linkedin.com/in/renell-santos/)
