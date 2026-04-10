@@ -146,13 +146,11 @@ Analyzed bike rental patterns across different weather conditions to optimize bi
 ![Screenshot 2025-01-21 220920](https://github.com/user-attachments/assets/db03545b-c904-45c1-a7ca-9794bb7f14a3)
 
 
-## Looker Studio
+## Looker
 ### 📂 Food Delivery Landscape — Taft Avenue, Manila
 
 🚀 **Goal:**
-Analyze the food delivery landscape near Taft Avenue to identify 
-supply gaps, pricing patterns, and quality distribution across 
-34 cuisine types and 6 Metro Manila cities.
+Identify high-value cuisine opportunities and pricing inefficiencies in Taft Avenue’s food delivery market
 
 🔧 **Tools Used:**
 ✅ Looker Studio (Dashboard + visualizations)
@@ -160,24 +158,30 @@ supply gaps, pricing patterns, and quality distribution across
 ✅ Looker Studio Query Result Variables (Dynamic insight text)
 
 📌 **What makes this analysis different:**
-Rather than just visualizing raw data, I engineered three 
-derived metrics directly in the data source:
-- value_index (avg rating ÷ avg fee) — quality per peso
-- Manila avg time vs Makati avg time — city-level delivery comparison
-- budget_tier classification (Low / Mid / High)
+This project goes beyond visualization by engineering decision-focused metrics directly in the data layer:
+- **Value Index** → identifies cuisines offering highest quality per peso
+- **Delivery Time Gap (Manila vs Makati)** → highlights operational efficiency differences
+- **Budget Tier Segmentation** → simplifies pricing strategy analysis
 
-These calculated fields power the dynamic key findings section 
-which updates automatically based on filter selection.
+These power a dynamic insights panel that updates in real time based on user filters.
 
 📈 **Key Findings:**
-📌 Manila delivers 6.6 min faster than Makati despite fewer restaurants.
-📌 Filipino dominates supply at 189 restaurants.
-📌 French cuisine has highest rating among well-represented cuisines (5+ restaurants) at ~4.57.
-📌 Most cuisines cluster in the ₱30–65 fee range.
+📌 Manila delivers 6.6 minutes faster than Makati despite lower restaurant density — indicating stronger delivery efficiency.
+📌 Filipino cuisine dominates supply (189 restaurants), suggesting high competition and potential saturation.
+📌 French cuisine shows the highest ratings (~4.57) among well-represented categories — a potential premium niche.
+📌 Most cuisines cluster in the ₱30–65 fee range, indicating a tight pricing band with limited differentiation.
 
-🔗 [Live Looker Studio Dashboard]() | 📸 Screenshot below
+💡 **Business Recommendations:**
+- Explore underrepresented high-rating cuisines (e.g., French) for premium positioning
+- Investigate Manila’s delivery model for potential replication in Makati
+- Differentiate pricing strategies outside the ₱30–65 cluster to avoid competition saturation
 
-![Looker- Food Delivery Options Taft Avenue](https://github.com/user-attachments/assets/de767c21-0cf8-4407-b035-e2212b221b58)
+🔗 **Live Interactive Dashboard**  
+[https://lookerstudio.google.com/...](https://lookerstudio.google.com/reporting/572f6e56-e1de-42df-a51f-b7a7368672bd)
+
+📸 **Dashboard Preview** 
+<img src="images/Food Delivery Landscape - Taft.jpg" width="700">
+
 
 
 ## Google Analytics
