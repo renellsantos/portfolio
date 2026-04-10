@@ -146,8 +146,37 @@ Analyzed bike rental patterns across different weather conditions to optimize bi
 ![Screenshot 2025-01-21 220920](https://github.com/user-attachments/assets/db03545b-c904-45c1-a7ca-9794bb7f14a3)
 
 
-## Looker
-[Preview]
+## Looker Studio
+### 📂 Food Delivery Landscape — Taft Avenue, Manila
+
+🚀 **Goal:**
+Analyze the food delivery landscape near Taft Avenue to identify 
+supply gaps, pricing patterns, and quality distribution across 
+34 cuisine types and 6 Metro Manila cities.
+
+🔧 **Tools Used:**
+✅ Looker Studio (Dashboard + visualizations)
+✅ Google Sheets (Data source + calculated fields)
+✅ Looker Studio Query Result Variables (Dynamic insight text)
+
+📌 **What makes this analysis different:**
+Rather than just visualizing raw data, I engineered three 
+derived metrics directly in the data source:
+- value_index (avg rating ÷ avg fee) — quality per peso
+- Manila avg time vs Makati avg time — city-level delivery comparison
+- budget_tier classification (Low / Mid / High)
+
+These calculated fields power the dynamic key findings section 
+which updates automatically based on filter selection.
+
+📈 **Key Findings:**
+📌 Manila delivers 6.6 min faster than Makati despite fewer restaurants.
+📌 Filipino dominates supply at 189 restaurants.
+📌 French cuisine has highest rating among well-represented cuisines (5+ restaurants) at ~4.57.
+📌 Most cuisines cluster in the ₱30–65 fee range.
+
+🔗 [Live Looker Studio Dashboard]() | 📸 Screenshot below
+
 ![Looker- Food Delivery Options Taft Avenue](https://github.com/user-attachments/assets/de767c21-0cf8-4407-b035-e2212b221b58)
 
 
