@@ -176,8 +176,7 @@ These power a dynamic insights panel that updates in real time based on user fil
 - Investigate Manila’s delivery model for potential replication in Makati
 - Differentiate pricing strategies outside the ₱30–65 cluster to avoid competition saturation
 
-🔗 **Live Interactive Dashboard**  
-[https://lookerstudio.google.com/...](https://lookerstudio.google.com/reporting/572f6e56-e1de-42df-a51f-b7a7368672bd)
+🔗 [**Live Interactive Dashboard** ](https://lookerstudio.google.com/reporting/572f6e56-e1de-42df-a51f-b7a7368672bd)
 
 📸 **Dashboard Preview** 
 <img src="images/Food Delivery Landscape - Taft.jpg" width="700">
