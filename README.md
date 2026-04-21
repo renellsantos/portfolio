@@ -166,10 +166,10 @@ This project goes beyond visualization by engineering decision-focused metrics d
 These power a dynamic insights panel that updates in real time based on user filters.
 
 📈 **Key Findings:**
-📌 Manila delivers 6.6 minutes faster than Makati despite lower restaurant density — indicating stronger delivery efficiency.
-📌 Filipino cuisine dominates supply (189 restaurants), suggesting high competition and potential saturation.
-📌 French cuisine shows the highest ratings (~4.57) among well-represented categories — a potential premium niche.
-📌 Most cuisines cluster in the ₱30–65 fee range, indicating a tight pricing band with limited differentiation.
+- Manila delivers 6.6 minutes faster than Makati despite lower restaurant density — indicating stronger delivery efficiency.
+- Filipino cuisine dominates supply (189 restaurants), suggesting high competition and potential saturation.
+- French cuisine shows the highest ratings (~4.57) among well-represented categories — a potential premium niche.
+- Most cuisines cluster in the ₱30–65 fee range, indicating a tight pricing band with limited differentiation.
 
 💡 **Business Recommendations:**
 - Explore underrepresented high-rating cuisines (e.g., French) for premium positioning
