@@ -150,7 +150,7 @@ Analyzed bike rental patterns across different weather conditions to optimize bi
 ### 📂 Food Delivery Landscape — Taft Avenue, Manila
 
 📸 **Dashboard Preview** 
-<img src="images/Food Delivery Analytics - Taft.png" width="700">
+<img src="images/Food Delivery Analytics.png" width="700">
 
 🔗 [**Live Interactive Dashboard** ](https://lookerstudio.google.com/reporting/572f6e56-e1de-42df-a51f-b7a7368672bd)
 
