@@ -149,6 +149,11 @@ Analyzed bike rental patterns across different weather conditions to optimize bi
 ## Looker
 ### 📂 Food Delivery Landscape — Taft Avenue, Manila
 
+📸 **Dashboard Preview** 
+<img src="images/Food Delivery Analytics - Taft.png" width="700">
+
+🔗 [**Live Interactive Dashboard** ](https://lookerstudio.google.com/reporting/572f6e56-e1de-42df-a51f-b7a7368672bd)
+
 🚀 **Goal:**
 Identify high-value cuisine opportunities and pricing inefficiencies in Taft Avenue’s food delivery market
 
@@ -176,10 +181,6 @@ These power a dynamic insights panel that updates in real time based on user fil
 - Investigate Manila’s delivery model for potential replication in Makati
 - Differentiate pricing strategies outside the ₱30–65 cluster to avoid competition saturation
 
-🔗 [**Live Interactive Dashboard** ](https://lookerstudio.google.com/reporting/572f6e56-e1de-42df-a51f-b7a7368672bd)
-
-📸 **Dashboard Preview** 
-<img src="images/Food Delivery Analytics - Taft.png" width="700">
 
 
 
